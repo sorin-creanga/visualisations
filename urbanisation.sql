@@ -14,5 +14,5 @@ SELECT
 FROM Country c
 WHERE 
   c.LifeExpectancy IS NOT NULL 
-  AND c.Population >= 1000000 
+  AND c.Population >= 1000000 -- skip for population smaller than 1 million -> outliers
 AND Round((c.GNP / c.Population),3) > 0; -- gnp_per_capita higher than 0
