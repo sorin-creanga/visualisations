@@ -20,4 +20,4 @@ FROM country AS c
 LEFT JOIN city ON c.Capital = city.ID
 WHERE c.IndepYear IS NOT NULL
   AND c.Population > 1000000
-  AND ROUND((c.GNP / c.Population), 3) > 0;
+  AND ROUND((c.GNP / c.Population), 3) > 0; --
