@@ -1,0 +1,234 @@
+CountryName,Continent,TotalLanguagesSpoken,PrimaryOfficialLanguage,AvgLanguageSpread
+Aruba,"North America",4,Dutch,24.73
+Afghanistan,Asia,5,Pashto,19.22
+Angola,Africa,9,NULL,10.60
+Anguilla,"North America",1,English,0.00
+Albania,Europe,3,Albaniana,33.27
+Andorra,Europe,4,Catalan,23.48
+"Netherlands Antilles","North America",3,Papiamento,31.33
+"United Arab Emirates",Asia,2,Arabic,21.00
+Argentina,"South America",3,Spanish,32.93
+Armenia,Asia,2,Armenian,48.00
+"American Samoa",Oceania,3,Samoan,32.27
+"Antigua and Barbuda","North America",2,English,47.85
+Australia,Oceania,8,English,11.14
+Austria,Europe,8,German,12.14
+Azerbaijan,Asia,4,Azerbaijani,24.08
+Burundi,Africa,3,Kirundi,32.70
+Belgium,Europe,6,German,16.28
+Benin,Africa,7,NULL,13.26
+"Burkina Faso",Africa,6,NULL,12.47
+Bangladesh,Asia,7,Bengali,14.10
+Bulgaria,Europe,4,Bulgariana,24.73
+Bahrain,Asia,2,Arabic,33.85
+Bahamas,"North America",2,NULL,50.00
+"Bosnia and Herzegovina",Europe,1,Serbo-Croatian,99.20
+Belarus,Europe,4,Russian,24.88
+Belize,"North America",4,English,24.70
+Bermuda,"North America",1,English,100.00
+Bolivia,"South America",4,Spanish,24.78
+Brazil,"South America",5,Portuguese,19.80
+Barbados,"North America",2,English,47.55
+Brunei,Asia,4,Malay,21.68
+Bhutan,Asia,3,Dzongkha,33.33
+Botswana,Africa,5,NULL,19.02
+"Central African Republic",Africa,6,NULL,13.73
+Canada,"North America",12,French,7.80
+"Cocos (Keeling) Islands",Oceania,2,English,0.00
+Switzerland,Europe,4,Romansh,22.78
+Chile,"South America",4,Spanish,25.00
+China,Asia,12,Chinese,8.23
+"Côte d’Ivoire",Africa,5,NULL,14.26
+Cameroon,Africa,8,NULL,10.09
+"Congo, The Democratic Republic of the",Africa,10,NULL,8.03
+Congo,Africa,6,NULL,15.08
+"Cook Islands",Oceania,2,Maori,0.00
+Colombia,"South America",5,Spanish,19.94
+Comoros,Africa,5,Comorian,19.10
+"Cape Verde",Africa,2,Portuguese,50.00
+"Costa Rica","North America",4,Spanish,25.00
+Cuba,"North America",1,Spanish,100.00
+"Christmas Island",Oceania,2,English,0.00
+"Cayman Islands","North America",1,English,0.00
+Cyprus,Asia,2,Turkish,48.25
+"Czech Republic",Europe,8,Czech,12.40
+Germany,Europe,6,German,16.12
+Djibouti,Africa,3,Arabic,29.77
+Dominica,"North America",2,NULL,50.00
+Denmark,Europe,7,Danish,13.77
+"Dominican Republic","North America",2,Spanish,50.00
+Algeria,Africa,2,Arabic,50.00
+Ecuador,"South America",2,Spanish,50.00
+Egypt,Africa,2,Arabic,49.40
+Eritrea,Africa,6,Tigrinja,15.82
+"Western Sahara",Africa,1,Arabic,100.00
+Spain,Europe,4,Spanish,24.83
+Estonia,Europe,5,Estonian,19.60
+Ethiopia,Africa,7,NULL,11.86
+Finland,Europe,5,Swedish,19.80
+"Fiji Islands",Oceania,2,Fijian,47.25
+"Falkland Islands","South America",1,English,0.00
+France,Europe,6,French,16.42
+"Faroe Islands",Europe,2,Faroese,50.00
+"Micronesia, Federated States of",Oceania,6,NULL,14.97
+Gabon,Africa,4,NULL,20.33
+"United Kingdom",Europe,3,English,32.77
+Georgia,Asia,6,Georgiana,16.15
+Ghana,Africa,6,NULL,15.42
+Gibraltar,Europe,2,English,48.15
+Guinea,Africa,7,NULL,12.66
+Guadeloupe,"North America",2,French,47.50
+Gambia,Africa,5,NULL,15.94
+Guinea-Bissau,Africa,6,Portuguese,14.58
+"Equatorial Guinea",Africa,2,NULL,46.75
+Greece,Europe,2,Greek,49.70
+Grenada,"North America",1,NULL,100.00
+Greenland,"North America",2,Greenlandic,50.00
+Guatemala,"North America",5,Spanish,18.26
+"French Guiana","South America",2,NULL,48.10
+Guam,Oceania,5,English,18.42
+Guyana,"South America",3,NULL,33.33
+"Hong Kong",Asia,5,English,19.16
+Honduras,"North America",4,Spanish,24.73
+Croatia,Europe,2,Serbo-Croatian,47.95
+Haiti,"North America",2,French,50.00
+Hungary,Europe,6,Hungarian,16.63
+Indonesia,Asia,9,Malay,9.10
+India,Asia,12,Hindi,7.88
+Ireland,Europe,2,Irish,50.00
+Iran,Asia,10,Persian,9.26
+Iraq,Asia,5,Arabic,19.90
+Iceland,Europe,2,Icelandic,47.85
+Israel,Asia,3,Hebrew,30.00
+Italy,Europe,8,Italian,12.45
+Jamaica,"North America",2,NULL,48.05
+Jordan,Asia,3,Arabic,33.30
+Japan,Asia,6,Japanese,16.67
+Kazakstan,Asia,6,Kazakh,15.52
+Kenya,Africa,10,NULL,8.89
+Kyrgyzstan,Asia,7,Russian,13.51
+Cambodia,Asia,4,Khmer,24.90
+Kiribati,Oceania,2,Kiribati,49.70
+"Saint Kitts and Nevis","North America",2,English,50.00
+"South Korea",Asia,2,Korean,50.00
+Kuwait,Asia,2,Arabic,39.05
+Laos,Asia,4,Lao,24.18
+Lebanon,Asia,3,Arabic,32.97
+Liberia,Africa,8,NULL,9.41
+"Libyan Arab Jamahiriya",Africa,2,Arabic,48.50
+"Saint Lucia","North America",2,English,50.00
+Liechtenstein,Europe,3,German,31.33
+"Sri Lanka",Asia,3,Tamil,33.17
+Lesotho,Africa,3,Sotho,33.33
+Lithuania,Europe,5,Lithuanian,19.84
+Luxembourg,Europe,5,Luxembourgish,17.70
+Latvia,Europe,6,Latvian,16.32
+Macao,Asia,4,Portuguese,22.40
+Morocco,Africa,2,Arabic,49.00
+Monaco,Europe,4,French,20.15
+Moldova,Europe,5,Romanian,19.70
+Madagascar,Africa,2,Malagasy,49.45
+Maldives,Asia,2,Dhivehi,50.00
+Mexico,"North America",6,Spanish,16.10
+"Marshall Islands",Oceania,2,Marshallese,48.40
+Macedonia,Europe,5,Macedonian,19.54
+Mali,Africa,6,NULL,13.43
+Malta,Europe,2,Maltese,48.95
+Myanmar,Asia,8,Burmese,11.83
+Mongolia,Asia,6,Mongolian,15.40
+"Northern Mariana Islands",Oceania,6,English,14.55
+Mozambique,Africa,10,NULL,8.61
+Mauritania,Africa,6,NULL,16.47
+Montserrat,"North America",1,English,0.00
+Martinique,"North America",2,French,48.30
+Mauritius,Africa,6,NULL,16.30
+Malawi,Africa,4,Chichewa,24.15
+Malaysia,Asia,6,Malay,12.80
+Mayotte,Africa,3,French,26.10
+Namibia,Africa,8,NULL,12.23
+"New Caledonia",Oceania,3,French,30.43
+Niger,Africa,5,NULL,19.76
+"Norfolk Island",Oceania,1,English,0.00
+Nigeria,Africa,10,NULL,9.06
+Nicaragua,"North America",4,Spanish,24.98
+Niue,Oceania,2,English,0.00
+Netherlands,Europe,4,Dutch,25.25
+Norway,Europe,5,Norwegian,19.56
+Nepal,Asia,7,Nepali,12.40
+Nauru,Oceania,5,Nauru,19.98
+"New Zealand",Oceania,2,English,45.65
+Oman,Asia,2,Arabic,38.35
+Pakistan,Asia,8,Urdu,12.14
+Panama,"North America",6,Spanish,16.55
+Pitcairn,Oceania,1,NULL,0.00
+Peru,"South America",3,Spanish,32.83
+Philippines,Asia,10,Pilipino,8.80
+Palau,Oceania,4,Palau,24.05
+"Papua New Guinea",Oceania,2,NULL,49.05
+Poland,Europe,4,Polish,25.00
+"Puerto Rico","North America",2,Spanish,49.35
+"North Korea",Asia,2,Korean,50.00
+Portugal,Europe,1,Portuguese,99.00
+Paraguay,"South America",4,Spanish,24.83
+Palestine,Asia,2,NULL,50.00
+"French Polynesia",Oceania,3,French,30.03
+Qatar,Asia,2,Arabic,20.35
+Réunion,Africa,5,NULL,19.70
+Romania,Europe,6,Romanian,16.57
+"Russian Federation",Europe,12,Russian,7.97
+Rwanda,Africa,2,Rwanda,50.00
+"Saudi Arabia",Asia,1,Arabic,95.00
+Sudan,Africa,10,Arabic,9.08
+Senegal,Africa,6,Wolof,15.40
+Singapore,Asia,3,Tamil,32.87
+"Saint Helena",Africa,1,English,0.00
+"Svalbard and Jan Mayen",Europe,2,Norwegian,0.00
+"Solomon Islands",Oceania,3,NULL,32.67
+"Sierra Leone",Africa,8,NULL,11.80
+"El Salvador","North America",2,Spanish,50.00
+"San Marino",Europe,1,Italian,100.00
+Somalia,Africa,2,Somali,49.15
+"Saint Pierre and Miquelon","North America",1,French,0.00
+"Sao Tome and Principe",Africa,2,NULL,43.50
+Suriname,"South America",2,NULL,40.50
+Slovakia,Europe,5,Slovak,19.90
+Slovenia,Europe,3,Slovene,32.10
+Sweden,Europe,6,Swedish,15.85
+Swaziland,Africa,2,Swazi,45.95
+Seychelles,Africa,3,French,32.13
+Syria,Asia,2,Arabic,49.50
+"Turks and Caicos Islands","North America",1,English,0.00
+Chad,Africa,8,Arabic,11.08
+Togo,Africa,8,Kabyé,8.95
+Thailand,Asia,6,Thai,16.27
+Tajikistan,Asia,3,Tadzhik,31.70
+Tokelau,Oceania,2,English,0.00
+Turkmenistan,Asia,4,Turkmenian,23.65
+"East Timor",Asia,2,Portuguese,0.00
+Tonga,Oceania,2,Tongan,49.15
+"Trinidad and Tobago","North America",3,NULL,33.27
+Tunisia,Africa,3,Arabic,33.13
+Turkey,Asia,3,Turkish,33.20
+Tuvalu,Oceania,3,Tuvalu,33.33
+Taiwan,Asia,6,"Mandarin Chinese",16.52
+Tanzania,Africa,11,Swahili,6.86
+Uganda,Africa,10,NULL,7.40
+Ukraine,Europe,7,Ukrainian,14.19
+"United States Minor Outlying Islands",Oceania,1,English,0.00
+Uruguay,"South America",1,Spanish,95.70
+"United States","North America",12,English,8.16
+Uzbekistan,Asia,6,Uzbek,15.92
+"Holy See (Vatican City State)",Europe,1,Italian,0.00
+"Saint Vincent and the Grenadines","North America",2,English,49.55
+Venezuela,"South America",3,Spanish,32.47
+"Virgin Islands, British","North America",1,English,0.00
+"Virgin Islands, U.S.","North America",3,English,32.50
+Vietnam,Asia,9,Vietnamese,10.80
+Vanuatu,Oceania,3,French,33.03
+"Wallis and Futuna",Oceania,2,NULL,0.00
+Samoa,Oceania,3,Samoan,33.37
+Yemen,Asia,2,Arabic,49.80
+Yugoslavia,Europe,6,Serbo-Croatian,16.28
+"South Africa",Africa,11,Zulu,8.95
+Zambia,Africa,6,NULL,10.82
+Zimbabwe,Africa,4,English,23.18
