@@ -1,3 +1,7 @@
+/*
+This query creates a view that shows one row per country, summarising how languages are spread and identifying the primary official
+language in that country. This query also includes 'not available' and null values for further EDA analysis.
+*/
 CREATE VIEW language_diversity as
 SELECT 
     c.Name AS CountryName,
